@@ -1,0 +1,28 @@
+{
+  "name": "friend-finder-app",
+  "version": "1.0.0",
+  "description": ":^)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loyolare96/friend-finder-app.git"
+  },
+  "keywords": [
+    ":^)"
+  ],
+  "author": "Regan Loyola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loyolare96/friend-finder-app/issues"
+  },
+  "homepage": "https://github.com/loyolare96/friend-finder-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "my-sql": "^1.2.15"
+  }
+}
